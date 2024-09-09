@@ -1,0 +1,5 @@
+echo "*.log" >> ~/mycode/.gitignore
+echo "*.key" >> ~/mycode/.gitignore
+echo "id_rsa*" >> ~/mycode/.gitignore
+# .gitignore
+/nextjs-webpack/node_modules/@next/swc-linux-x64-gnu/next-swc.linux-x64-gnu.node
