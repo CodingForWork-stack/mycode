@@ -1,0 +1,12 @@
+/* styles/Home.module.css */
+.container {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 800px; /* Limits the width of the container */
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 20px; /* Adds space below the title */
+}
+

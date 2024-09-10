@@ -1,0 +1,21 @@
+{
+  "name": "next-image-optimization",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/react": "^18.3.5",
+    "next": "^14.2.9",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "22.5.4"
+  }
+}
