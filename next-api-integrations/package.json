@@ -1,0 +1,19 @@
+{
+  "name": "next-api-integrations",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.11.8",
+    "axios": "^1.7.7",
+    "graphql": "^16.9.0",
+    "next": "14.2.9",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
